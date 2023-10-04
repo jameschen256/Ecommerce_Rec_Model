@@ -1,5 +1,5 @@
 # Ecommerce Recommendation Model
-
+ 
 This repository contains the implementation of an Ecommerce Recommendation Model using Alternating Least Squares (ALS) algorithm. The goal is to provide product recommendations to online shoppers based on their historical purchase data.
 
 ## Overview
