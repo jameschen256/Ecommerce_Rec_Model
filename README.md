@@ -4,7 +4,7 @@ This repository contains the implementation of an Ecommerce Recommendation Model
 
 ## Overview
 
-The Jupyter Notebook `ALScodefin.ipynb` walks through the process of building and evaluating an Alternating Least Squares (ALS) machine learning model for e-commerce recommendations.
+The Jupyter Notebook `RecommendationModel.ipynb` walks through the process of building and evaluating an Alternating Least Squares (ALS) machine learning model for e-commerce recommendations.
 
 ## Prerequisites
 
